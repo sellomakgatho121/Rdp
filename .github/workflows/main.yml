@@ -1,4 +1,4 @@
-workfe: RDP
+workflow: RDP
 
 on:
   workflow_dispatch:
